@@ -1,6 +1,6 @@
 {
     "name": "hyper-dark-material",
-    "displayName": "hyper-dark-material",
+    "displayName": "Hyper Dark Material",
     "description": "A dark VS Code color theme based on Hyper Term, Dark+ (Default) and Material",
     "version": "0.0.1",
     "engines": {
@@ -8,6 +8,14 @@
     },
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "hyper term",
+        "dark+",
+        "material",
+        "electron",
+        "dark"
     ],
     "contributes": {
         "themes": [
