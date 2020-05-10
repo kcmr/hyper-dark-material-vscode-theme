@@ -31,6 +31,7 @@
     "type": "git",
     "url": "git+https://github.com/kcmr/hyper-dark-material-vscode-theme.git"
   },
+  "icon": "images/icon.png",
   "author": "Kus Cámara",
   "license": "MIT",
   "bugs": {
